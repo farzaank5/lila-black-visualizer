@@ -1,14 +1,14 @@
-# ⚡ LILA BLACK — Player Journey Visualizer
+#  LILA BLACK — Player Journey Visualizer
 
 A browser-based visualization tool that transforms raw LILA BLACK gameplay telemetry into interactive map overlays. Level Designers can explore player movement paths, kill zones, loot patterns and storm deaths across 3 maps. Features heatmaps, match playback, date/match filtering and human vs bot distinction.
 
-## 🔗 Live Tool
+##  Live Tool
 
 **[https://astounding-tartufo-17d8c4.netlify.app/](https://astounding-tartufo-17d8c4.netlify.app/)**
 
 ---
 
-## 📦 What's Inside
+##  What's Inside
 
 | File | Description |
 |------|-------------|
@@ -19,7 +19,7 @@ A browser-based visualization tool that transforms raw LILA BLACK gameplay telem
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Player paths** on minimap — humans in blue, bots in purple
 - **Event markers** — kills, deaths, bot kills, storm deaths, loot pickups
@@ -31,7 +31,7 @@ A browser-based visualization tool that transforms raw LILA BLACK gameplay telem
 
 ---
 
-## 🗺️ Maps Covered
+##  Maps Covered
 
 | Map | Matches | Events |
 |-----|---------|--------|
@@ -41,7 +41,7 @@ A browser-based visualization tool that transforms raw LILA BLACK gameplay telem
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 No setup needed. Just open the file:
 
@@ -59,7 +59,7 @@ All data and map images are embedded directly inside `index.html` — no server,
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Choice |
 |-------|--------|
@@ -70,7 +70,7 @@ All data and map images are embedded directly inside `index.html` — no server,
 
 ---
 
-## 📊 Data
+##  Data
 
 - **5 days** of production data — February 10–14
 - **89,016 events** across 796 matches
